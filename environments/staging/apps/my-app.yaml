@@ -9,9 +9,9 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/antonputra/lesson-158.git
+    repoURL: ghttps://github.com/ssuvac/public-repo-test.git
     targetRevision: HEAD
-    path: environments/staging/my-app
+    path: environments/staging/app
   destination:
     server: https://kubernetes.default.svc
   syncPolicy:

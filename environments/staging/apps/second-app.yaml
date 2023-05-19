@@ -9,7 +9,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/antonputra/lesson-158.git
+    repoURL: https://github.com/ssuvac/public-repo-test.git
     targetRevision: HEAD
     path: environments/staging/app2
   destination:
